@@ -1,11 +1,15 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/cSHVTthd/1773375292375.jpg" alt="Rahin Banner" />
+  <img src="https://i.ibb.co/cSHVTthd/1773375292375.jpg" alt="Rahin Banner" />
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahin+Haque;Frontend+React+Developer;JavaScript+Enthusiast;Lifelong+Learner" />
+</p>
+
+<p align="center">
+  Frontend Developer | React | Building modern web experiences
 </p>
 
 ---
@@ -66,7 +70,15 @@ I care about performance, scalability, and writing maintainable code. Currently,
 ---
 
 ## 🌐 Connect with Me  
-- 🔗 LinkedIn: https://www.linkedin.com/in/rahin-haque-web/
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahin-haque-web/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://www.facebook.com/haque.rahin">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" />
+  </a>
+</p>
 
 ---
 
@@ -75,4 +87,20 @@ I care about performance, scalability, and writing maintainable code. Currently,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💙 Thanks for Visiting  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Let's+Build+Something+Awesome+Together!" />
 </p>
