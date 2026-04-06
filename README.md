@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="./" alt="Rahin Banner" />
+  <img src="https://i.ibb.co.com/cSHVTthd/1773375292375.jpg" alt="Rahin Banner" />
 </p>
 
 <!-- 🔥 Typing Animation -->
