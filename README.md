@@ -91,13 +91,7 @@ I care about performance, scalability, and writing maintainable code. Currently,
 
 ---
 
-## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahinhaque/output/dist/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 💙 Thanks for Visiting  
 
