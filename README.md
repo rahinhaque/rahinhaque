@@ -94,7 +94,7 @@ I care about performance, scalability, and writing maintainable code. Currently,
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rahinhaque/rahinhaque/output/snake.svg" />
 </p>
 
 ---
