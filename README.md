@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://i.ibb.co/cSHVTthd/1773375292375.jpg" alt="Rahin Haque" width="100%" style="border-radius: 16px;" />
+<img src="https://i.ibb.co/cSHVTthd/1773375292375.jpg" alt="Rahin Haque" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahin+Haque;Frontend+React+Developer;JavaScript+Enthusiast;Turning+Ideas+Into+Interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahin+Haque;Frontend+React+Developer;JavaScript+Enthusiast;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<p>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 <a href="mailto:haquerahin743@gmail.com">haquerahin743@gmail.com</a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/rahin-haque-web/">
@@ -15,28 +19,45 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00C7B7&label=Profile+Views" />
+  <a href="mailto:haquerahin743@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rahinhaque&style=flat-square&color=00C7B7&label=Profile+Views" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-> *"I don't just write code — I craft experiences that users remember."*
+I'm a **self-taught frontend developer** from Bangladesh, currently in the learning phase and passionate about building real things with code. I enjoy working with **React** and **JavaScript**, and I'm focused on growing my skills one project at a time.
 
-I'm a **frontend developer** obsessed with clean UI, fast performance, and pixel-perfect execution. My focus is building modern, responsive web apps with **React** and **JavaScript** — and I'm actively leveling up into full-stack territory.
+I believe in **learning by doing** — every project I build teaches me something new, and I'm not afraid to struggle through problems to come out stronger on the other side.
 
 ```js
 const rahin = {
-  role:      "Frontend Developer",
-  focus:     ["React", "JavaScript", "UI/UX"],
-  currently: "Building portfolio projects + mastering performance optimization",
-  goal:      "Full-Stack Developer",
-  openTo:    "Internships, Junior roles & Freelance work 🚀",
+  location:  "Dhaka, Bangladesh 🇧🇩",
+  email:     "haquerahin743@gmail.com",
+  status:    "📚 Actively Learning",
+  focus:     ["React", "JavaScript", "Frontend Development"],
+  currently: "Strengthening fundamentals & building portfolio projects",
+  goal:      "Land my first dev role & grow into a Full-Stack Developer",
+  openTo:    "Internships, Entry-level roles & Collaboration 🤝",
 };
 ```
+
+---
+
+## 🌱 Currently Learning
+
+| What | Why |
+|------|-----|
+| ⚛️ React — Patterns & Hooks | Deepen my core frontend skills |
+| ⚡ Performance Optimization | Write faster, smarter code |
+| 🖥️ MERN Stack basics | Grow toward full-stack |
+| 🔨 Building portfolio projects | Apply everything in real projects |
 
 ---
 
@@ -45,7 +66,7 @@ const rahin = {
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
-### 🎯 Core Expertise
+### 🎯 Core Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -82,17 +103,6 @@ const rahin = {
 
 ---
 
-## 🚀 What I'm Currently Up To
-
-| Area | Status |
-|------|--------|
-| ⚛️ React — Advanced Patterns | 🔥 Active |
-| 🌐 Portfolio Projects | 🔨 Building |
-| ⚡ Performance Optimization | 📖 Learning |
-| 🖥️ Full-Stack (MERN) | 🚀 Leveling Up |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,33 +119,31 @@ const rahin = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **junior frontend roles, internships, or freelance projects.**  
-If you like what you see — let's talk!
+I'm a developer **in the learning phase** — eager, consistent, and open to any opportunity to grow.  
+Whether it's an **internship, entry-level role, or just a conversation** — feel free to reach out!
 
 <br/>
 
+<a href="mailto:haquerahin743@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rahin-haque-web/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/haque.rahin">
-  <img src="https://img.shields.io/badge/Message_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+awesome+together!;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=540&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Still+learning+%E2%80%94+but+loving+every+step+%F0%9F%9A%80;Let's+build+something+together!)](https://git.io/typing-svg)
 
 </div>
