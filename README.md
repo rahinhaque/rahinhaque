@@ -149,20 +149,6 @@ const rahin = {
 
 ---
 
-<div align="center">
-
-## `🗣️ Most Used Languages`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<!-- Compact language bar breakdown -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" />
-
-</div>
 
 <br/>
 
