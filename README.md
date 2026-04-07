@@ -150,9 +150,9 @@ const rahin = {
 
 ---
 
-<div align="center">
+<div >
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&layout=compact&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
