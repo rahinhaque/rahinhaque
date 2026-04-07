@@ -113,7 +113,7 @@ const rahin = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahinhaque&theme=tokyonight&hide_border=true" />
 
 </div>
 
