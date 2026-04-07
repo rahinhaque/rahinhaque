@@ -8,11 +8,11 @@
 
 <br/>
 
-```
+<pre align="center">
 ╔══════════════════════════════════════════════════════════╗
 ║   📍 Dhaka, Bangladesh   •   Open to Work & Collabs 🤝   ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <p>
   <a href="https://www.linkedin.com/in/rahin-haque-web/">
@@ -66,14 +66,16 @@ const rahin = {
 
 ## `{ Currently Cooking 🍳 }`
 
-</div>
+<br/>
 
-```
-🔥 React Patterns & Hooks  ━━━━━━━━━━━━━━━━━━━━━━━━━  Deepening core skills
-⚡ Performance Optimization ━━━━━━━━━━━━━━━━━━━━━━━━━  Smarter, faster code
-🖥️  MERN Stack Basics       ━━━━━━━━━━━━━━━━━━━━━━━━━  Road to full-stack
-🎯 Portfolio Projects       ━━━━━━━━━━━━━━━━━━━━━━━━━  Apply everything real
-```
+<pre align="center">
+🔥 React Patterns & Hooks   ━━━━━━━━━━━━━━━━━━━━━━━━━  Deepening core skills
+⚡ Performance Optimization  ━━━━━━━━━━━━━━━━━━━━━━━━━  Smarter, faster code
+🖥️  MERN Stack Basics        ━━━━━━━━━━━━━━━━━━━━━━━━━  Road to full-stack
+🎯 Portfolio Projects        ━━━━━━━━━━━━━━━━━━━━━━━━━  Apply everything real
+</pre>
+
+</div>
 
 <br/>
 
@@ -147,15 +149,23 @@ const rahin = {
 
 <br/>
 
-
 ---
 
-<div >
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&layout=compact&theme=tokyonight&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9&bg_color=0d1117" />
+## `🗣️ Most Used Languages`
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahinhaque&theme=tokyonight" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahinhaque&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahinhaque&theme=tokyonight" />
 
 </div>
-
 
 <br/>
 
@@ -179,12 +189,14 @@ const rahin = {
 
 ## `🧠 Soft Skills`
 
-```
+<br/>
+
+<pre align="center">
 💪  Hardworking        —  I don't quit when it gets hard
 🎯  Decision Making    —  Think first, then build
 🤝  Team Player        —  Open to feedback, always
 🔍  Problem Solver     —  I love a good debugging session (most days)
-```
+</pre>
 
 </div>
 
@@ -217,12 +229,12 @@ const rahin = {
 
 <br/><br/>
 
-```
+<pre align="center">
 ╔═══════════════════════════════════════════════╗
 ║   Still learning — but loving every step 🚀   ║
 ║       Let's build something together!          ║
 ╚═══════════════════════════════════════════════╝
-```
+</pre>
 
 <br/>
 
