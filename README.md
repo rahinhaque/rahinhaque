@@ -16,18 +16,18 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rahin-haque-web/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/haque.rahin">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
   <a href="mailto:haquerahin743@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rahinhaque&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=rahinhaque&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
@@ -141,9 +141,9 @@ const rahin = {
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahinhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahinhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="Rahin's GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rahinhaque&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rahinhaque&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="Rahin's Streak" />
 
 </div>
 
@@ -157,13 +157,13 @@ const rahin = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahinhaque&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahinhaque&theme=tokyonight" alt="Repos Per Language" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahinhaque&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahinhaque&theme=tokyonight" alt="Most Commit Language" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahinhaque&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahinhaque&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
@@ -216,15 +216,15 @@ const rahin = {
 <br/>
 
 <a href="mailto:haquerahin743@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rahin-haque-web/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/haque.rahin">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 <br/><br/>
