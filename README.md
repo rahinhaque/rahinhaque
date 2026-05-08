@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.ibb.co/cSHVTthd/1773375292375.jpg](https://i.ibb.co.com/N2JL8shG/Chat-GPT-Image-May-8-2026-09-24-01-AM.png)" alt="Rahin Haque" width="100%" style="border-radius: 12px;" />
+<img src="https://i.ibb.co.com/N2JL8shG/Chat-GPT-Image-May-8-2026-09-24-01-AM.png" alt="Rahin Haque" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
