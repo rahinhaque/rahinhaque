@@ -1,34 +1,21 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://i.ibb.co.com/N2JL8shG/Chat-GPT-Image-May-8-2026-09-24-01-AM.png" alt="Rahin Haque" width="100%" style="border-radius: 12px;" />
+<img src="https://i.ibb.co.com/N2JL8shG/Chat-GPT-Image-May-8-2026-09-24-01-AM.png" alt="Rahin Haque" width="100%" style="border-radius: 16px;" />
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rahin+Haque+%F0%9F%91%8B;Full-Stack+MERN+Developer;JavaScript+Enthusiast+%E2%9A%A1;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rahin+Haque+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%2B+Next.js+%2B+Node.js;I+build+products+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<pre align="center">
-╔══════════════════════════════════════════════════════════╗
-║   📍 Dhaka, Bangladesh   •   Open to Work & Collabs 🤝   ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
-
-<p>
-  <a href="https://www.linkedin.com/in/rahin-haque-web/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/haque.rahin">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="mailto:haquerahin743@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rahinhaque&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<a href="https://www.linkedin.com/in/rahin-haque-web/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:haquerahin743@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.facebook.com/haque.rahin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rahinhaque&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -36,142 +23,93 @@
 
 ---
 
-<div align="center">
+<!-- WHO AM I -->
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-## `< About Me />`
+### 👨‍💻 &nbsp;About Me
 
-</div>
-
-> I'm a **Full-Stack MERN Developer** from Bangladesh — shipping production-ready apps, one commit at a time.  
-> I live by one rule: **build it, break it, learn from it, repeat.** 🔁
-
-```js
-const rahin = {
-  location  : "Dhaka, Bangladesh 🇧🇩",
-  email     : "haquerahin743@gmail.com",
-  status    : "🚀 Full-Stack MERN Professional",
-  focus     : ["React", "Node.js", "MongoDB", "Express.js"],
-  currently : "Building full-stack apps & contributing to real-world projects",
-  goal      : "Deliver impactful products → grow as a Senior Full-Stack Engineer 🌱",
-  openTo    : ["Full-time Roles", "Freelance Projects", "Collaborations 🤝"],
-  funFact   : "I debug better at night ☕ + 🎧",
-};
+```
+📍  Based in Dhaka, Bangladesh
+💼  Full-Stack MERN Developer
+⚡  Open to full-time roles & freelance
+🎯  Building fast, clean, scalable products
+☕  Debug mode: always on (especially at night)
 ```
 
 <br/>
 
+- 🔭 &nbsp;I build **end-to-end web applications** with the MERN stack
+- 🌐 &nbsp;Comfortable owning both **UI and API layers** of a product
+- 🧠 &nbsp;Currently leveling up in **Next.js, performance & system design**
+- 🤝 &nbsp;I'm collaborative, feedback-friendly, and love clean code
+- 💬 &nbsp;Ask me about **React, Node.js, REST APIs, or MongoDB**
+- 📫 &nbsp;Reach me at **haquerahin743@gmail.com**
+
+<br/><br/><br/>
+
 ---
 
+<!-- TECH STACK -->
 <div align="center">
 
-## `{ Currently Cooking 🍳 }`
-
-<br/>
-
-<pre align="center">
-🔥 Advanced React Patterns    ━━━━━━━━━━━━━━━━━━━━━━━━━  Production-grade UI
-⚡ REST APIs & Auth Systems   ━━━━━━━━━━━━━━━━━━━━━━━━━  Secure, scalable backends
-🖥️  Full-Stack MERN Projects  ━━━━━━━━━━━━━━━━━━━━━━━━━  End-to-end ownership
-🎯 Performance & Best Practices ━━━━━━━━━━━━━━━━━━━━━━━  Shipping clean code
-</pre>
+## 🛠️ &nbsp;Tech Stack
 
 </div>
 
 <br/>
 
----
+**Frontend**
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff)
 
-## `[ Tech Arsenal ]`
+**Backend & Database**
 
-### 💻 Primary Language
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=fff)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+**Auth & Data Fetching**
 
-<br/>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=fff)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff)
 
-### 🎯 Core Skills
+**Tools & Platforms**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=fff)
-
-<br/>
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=fff)
-
-<br/>
-
-### 🔐 Auth & Data
-
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-
-<br/>
-
-### 🧪 Also Know My Way Around
-
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
-![Jest](https://img.shields.io/badge/Jest-25A162?style=for-the-badge&logo=jest&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
-<br/>
-
-### 🛠️ Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-25A162?style=flat-square&logo=jest&logoColor=fff)
 
 <br/>
 
 ---
 
+<!-- GITHUB STATS -->
 <div align="center">
 
-## `📊 GitHub Stats`
+## 📊 &nbsp;GitHub Stats
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahinhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="Rahin's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rahinhaque&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="Rahin's Streak" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `🗣️ Most Used Languages`
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahinhaque&theme=tokyonight" alt="Repos Per Language" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahinhaque&theme=tokyonight" alt="Most Commit Language" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahinhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="Rahin's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahinhaque&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="Rahin's Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahinhaque&theme=tokyonight" alt="Profile Details" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -179,9 +117,10 @@ const rahin = {
 
 ---
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-## `📈 Contribution Activity`
+## 📈 &nbsp;Contribution Activity
 
 <br/>
 
@@ -193,59 +132,55 @@ const rahin = {
 
 ---
 
+<!-- WHAT I BRING -->
 <div align="center">
 
-## `🧠 Soft Skills`
-
-<br/>
-
-<pre align="center">
-💪  Hardworking        —  I don't quit when it gets hard
-🎯  Decision Making    —  Think first, then build
-🤝  Team Player        —  Open to feedback, always
-🔍  Problem Solver     —  I love a good debugging session (most days)
-</pre>
+## 💼 &nbsp;What I Bring to a Team
 
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-## `📬 Let's Connect!`
+| Trait | What it means in practice |
+|---|---|
+| 💪 **Ownership** | I take a feature from wireframe to deployment — no hand-holding needed |
+| 🔍 **Problem Solver** | I don't just Google errors; I understand *why* they happen |
+| 🤝 **Collaborative** | I give and receive feedback well — code reviews welcome |
+| ⚡ **Fast Learner** | New library or pattern? I'm shipping with it in days, not weeks |
+| 🎯 **Product Mindset** | I care about UX and performance, not just making it "work" |
 
 <br/>
 
-> I'm a **Full-Stack MERN Developer** — consistent, shipping-ready, and always building something.  
-> Whether it's a **full-time role, freelance project, or just a coffee chat** — reach out anytime!
+---
+
+<!-- CTA -->
+<div align="center">
+
+## 📬 &nbsp;Let's Work Together
+
+<br/>
+
+> I'm a **Full-Stack MERN Developer** ready to contribute to a real team and ship real products.  
+> Open to **full-time roles, freelance projects, and long-term collaborations.**
 
 <br/>
 
 <a href="mailto:haquerahin743@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rahin-haque-web/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/haque.rahin">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<pre align="center">
-╔═══════════════════════════════════════════════╗
-║   Full-Stack. Production-Ready. Let's go 🚀   ║
-║       Let's build something together!          ║
-╚═══════════════════════════════════════════════╝
-</pre>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Full-Stack.+Production-Ready.+Let's+ship+something+great+%F0%9F%9A%80;Available+for+full-time+%7C+freelance+%7C+collab;haquerahin743%40gmail.com)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=540&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;One+commit+at+a+time...+%F0%9F%92%BB;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+---
+
+<sub>📍 Dhaka, Bangladesh &nbsp;•&nbsp; Updated May 2026</sub>
 
 </div>
