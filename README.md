@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rahin+Haque+%F0%9F%91%8B;Frontend+React+Developer;JavaScript+Enthusiast+%E2%9A%A1;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rahin+Haque+%F0%9F%91%8B;Full-Stack+MERN+Developer;JavaScript+Enthusiast+%E2%9A%A1;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,18 +42,18 @@
 
 </div>
 
-> I'm a **self-taught frontend developer** from Bangladesh — currently deep in the grind, one project at a time.  
+> I'm a **Full-Stack MERN Developer** from Bangladesh — shipping production-ready apps, one commit at a time.  
 > I live by one rule: **build it, break it, learn from it, repeat.** 🔁
 
 ```js
 const rahin = {
   location  : "Dhaka, Bangladesh 🇧🇩",
   email     : "haquerahin743@gmail.com",
-  status    : "📚 Actively Learning & Building",
-  focus     : ["React", "JavaScript", "Frontend Development"],
-  currently : "Sharpening fundamentals + building portfolio projects",
-  goal      : "Land my first dev role → grow into Full-Stack 🌱",
-  openTo    : ["Internships", "Entry-level Roles", "Collaborations 🤝"],
+  status    : "🚀 Full-Stack MERN Professional",
+  focus     : ["React", "Node.js", "MongoDB", "Express.js"],
+  currently : "Building full-stack apps & contributing to real-world projects",
+  goal      : "Deliver impactful products → grow as a Senior Full-Stack Engineer 🌱",
+  openTo    : ["Full-time Roles", "Freelance Projects", "Collaborations 🤝"],
   funFact   : "I debug better at night ☕ + 🎧",
 };
 ```
@@ -69,10 +69,10 @@ const rahin = {
 <br/>
 
 <pre align="center">
-🔥 React Patterns & Hooks   ━━━━━━━━━━━━━━━━━━━━━━━━━  Deepening core skills
-⚡ Performance Optimization  ━━━━━━━━━━━━━━━━━━━━━━━━━  Smarter, faster code
-🖥️  MERN Stack Basics        ━━━━━━━━━━━━━━━━━━━━━━━━━  Road to full-stack
-🎯 Portfolio Projects        ━━━━━━━━━━━━━━━━━━━━━━━━━  Apply everything real
+🔥 Advanced React Patterns    ━━━━━━━━━━━━━━━━━━━━━━━━━  Production-grade UI
+⚡ REST APIs & Auth Systems   ━━━━━━━━━━━━━━━━━━━━━━━━━  Secure, scalable backends
+🖥️  Full-Stack MERN Projects  ━━━━━━━━━━━━━━━━━━━━━━━━━  End-to-end ownership
+🎯 Performance & Best Practices ━━━━━━━━━━━━━━━━━━━━━━━  Shipping clean code
 </pre>
 
 </div>
@@ -101,13 +101,21 @@ const rahin = {
 
 <br/>
 
-### 😌 Comfortable With
+### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=fff)
+
+<br/>
+
+### 🔐 Auth & Data
+
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 
 <br/>
 
@@ -125,7 +133,6 @@ const rahin = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
@@ -210,8 +217,8 @@ const rahin = {
 
 <br/>
 
-> I'm a developer **in the learning phase** — eager, consistent, and always building something.  
-> Whether it's an **internship, entry-level role, or just a coffee chat** — reach out anytime!
+> I'm a **Full-Stack MERN Developer** — consistent, shipping-ready, and always building something.  
+> Whether it's a **full-time role, freelance project, or just a coffee chat** — reach out anytime!
 
 <br/>
 
@@ -231,7 +238,7 @@ const rahin = {
 
 <pre align="center">
 ╔═══════════════════════════════════════════════╗
-║   Still learning — but loving every step 🚀   ║
+║   Full-Stack. Production-Ready. Let's go 🚀   ║
 ║       Let's build something together!          ║
 ╚═══════════════════════════════════════════════╝
 </pre>
