@@ -100,7 +100,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
 
-## 📊 &nbsp;GitHub Stats
+<h2>📊 &nbsp;GitHub Stats</h2>
 
 <br/>
 
@@ -112,8 +112,6 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&layout=compact" alt="Top Languages"/>
 
 </div>
-
-<br/>
 
 ---
 
