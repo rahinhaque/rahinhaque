@@ -103,12 +103,12 @@
 <h2>📊 &nbsp;GitHub Stats</h2>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahinhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9&cache_seconds=1800" alt="Rahin's GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahinhaque&theme=tokyonight" alt="Rahin's GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=rahinhaque&theme=tokyonight&hide_border=true&background=0d1117&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="Rahin's Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahinhaque&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&layout=compact&cache_seconds=1800" alt="Top Languages"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahinhaque&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
