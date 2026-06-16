@@ -77,6 +77,7 @@
 
 **Auth & Data Fetching**
 
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=shield&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=fff)
